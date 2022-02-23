@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/outpo/v2rayku",
-  "repository": "https://github.com/outpo/v2rayku",
+  "website": "https://github.com/outpo/toopkcl",
+  "repository": "https://github.com/outpo/toopkcl",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
