@@ -1,28 +1,28 @@
 {
-  "name": "随便",
-  "description": "随便",
+  "name": "闅忎究",
+  "description": "闅忎究",
   "keywords": [
-    "随便"
+    "闅忎究"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "description": "鍗忚VMess鎴朧LESS锛岃濉皬鍐欑殑vmess鎴杤less",
       "value": "vless",
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "鐢ㄦ埛鐨勪富ID",
       "value": "",
       "required": false
     },
     "WS_PATH": {
-      "description": "websocket路径",
+      "description": "websocket璺緞",
       "value": "/app",
       "required": true
     }
   },
-  "website": "https://github.com/outpo/toopkcl",
-  "repository": "https://github.com/outpo/toopkcl",
+  "website": "https://github.com/outpo/v2rayku",
+  "repository": "https://github.com/outpo/v2rayku",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
