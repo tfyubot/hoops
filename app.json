@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/outpo/toopkcl",
-  "repository": "https://github.com/outpo/toopkcl",
+  "website": "https://github.com/tfyubot/hoops",
+  "repository": "https://github.com/tfyubot/hoops",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
